@@ -1,0 +1,17 @@
+{
+    "awake": 0,
+    "bird": 1,
+    "brown": 2,
+    "bye": 3,
+    "cow": 4,
+    "doll": 5,
+    "donkey": 6,
+    "duck": 7,
+    "fireman": 8,
+    "listen": 9,
+    "mouse": 10,
+    "shhh": 11,
+    "uncle": 12,
+    "wake": 13,
+    "who": 14
+}
